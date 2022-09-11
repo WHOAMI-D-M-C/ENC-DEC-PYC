@@ -16,15 +16,15 @@ $ apt update && upgrade -y
 ``
 
 ``
-$ git clone https://github.com/WHOAMI-XD-KING/pyc.git
+$ git clone https://github.com/WHOAMI-XD-KING/ENC&DEC-PYC
 ``
 
 ``
-$ cd pyc
+$ cd ENC&DEC-PYC
 ``
 
 ``
-$ python pyc.py
+$ python pyc1.py
 ``
 
 
@@ -32,4 +32,4 @@ $ python pyc.py
 
 ## Find Me on :
 
-[![Github](https://img.shields.io/badge/github-python--life-green?style=for-the-badge&logo=github)](https://github.com/WHOAMI-XD-KING)
+[![Github](https://img.shields.io/badge/github-WHOAMI-XD-KING-green?style=for-the-badge&logo=github)](https://github.com/WHOAMI-XD-KING)
