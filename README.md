@@ -16,7 +16,7 @@ $ apt update && upgrade -y
 ``
 
 ``
-$ git clone https://github.com/WHOAMI-XD-KING/ENC&DEC-PYC
+$ git clone https://github.com/WHOAMI-XD-KING/ENC-DEC-PYC
 ``
 
 ``
